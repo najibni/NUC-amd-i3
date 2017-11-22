@@ -1,1 +1,1 @@
-this is my NUC i3 dotfiles
+these are my NUC i3 dotfiles
