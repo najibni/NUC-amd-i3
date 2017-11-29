@@ -351,16 +351,16 @@ font pango:Noto Mono Regular 13
 # you can find the class with the program xprop
 
 # Workspace 1 browser related
-assign [class="Firefox|Vivaldi-stable|Vivaldi-snapshot|Opera"]                      → 1
-assign [class="Chromium|Google-chrome"]                                             → 1
+assign [class="Firefox|Vivaldi-stable|Vivaldi-snapshot|Opera"]                      → "1:"
+#assign [class="Chromium|Google-chrome"]                                             → 1
 
 # Workspace 2 text editor related
 #assign [class="sublime-text|sublime_text|Sublime_text|subl|Subl|subl3|Subl3"]       → 2
 #assign [class="Xed|xed|Brackets|Atom|Code|Geany"]                                   → 2
-assign [class="Thunderbird"]							     → 2
+assign [class="Thunderbird"]							     → "2:"
 
 # Workspace 3 Inkscape
-assign [class="Lxterminal"]                                                           → 3
+assign [class="Lxterminal"]                                                           → "3:>_"
 
 # Workspace 4 Gimp
 assign [class="Thunar"]                                                               → "4:"
