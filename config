@@ -95,10 +95,11 @@ workspace 8 output $secondMonitor
 workspace 9 output $secondMonitor
 workspace 10 output $secondMonitor
 
-#set $ws1 "1:gen"
-#set $ws2 "2: "
-#set $workspace3 "3:>_"
-#set $workspace4 "4: "
+
+set $workspace1 "1: "
+set $workspace2 "2: "
+set $workspace3 "3:>_"
+set $workspace4 "4: "
 #set $workspace5 "5:"
 #set $workspace6 "6:Libre"
 #set $workspace7 "7:Libre"
