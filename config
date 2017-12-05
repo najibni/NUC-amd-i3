@@ -480,7 +480,7 @@ exec --no-startup-id /usr/lib/xfce4/notifyd/xfce4-notifyd &
 
 # terminal
 bindsym $mod+t exec --no-startup-id termite;focus
-bindsym $mod+Return exec --no-startup-id termite;focus
+bindsym $mod+Return exec --no-startup-id lxterminal;focus
 bindsym control+mod1+t exec --no-startup-id termite; focus
 
 # file manager
